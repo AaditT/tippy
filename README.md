@@ -2,8 +2,8 @@
 A Tip Calculating iOS App
 
 Made using AppBrewery tutorial <br/>
-<img src="https://raw.githubusercontent.com/AaditT/tippy/master/appfac1.jpg" alt="App Layout" width="200" height="400">
-<img src="https://raw.githubusercontent.com/AaditT/tippy/master/appfac2.jpg" alt="App Layout" width="200" height="400">
+<img src="https://raw.githubusercontent.com/AaditT/tippy/master/appface1.jpg" alt="App Layout" width="200" height="400">
+<img src="https://raw.githubusercontent.com/AaditT/tippy/master/appface2.jpg" alt="App Layout" width="200" height="400">
 
 
 
